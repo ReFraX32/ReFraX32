@@ -12,7 +12,7 @@
 
 <!-- BADGE STATUS BAR -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ReFraX32&amp;label=Profile+Visits&amp;color=7aa2f7&amp;style=for-the-badge" alt="Views" />
+<img src="https://hits.sh/github.com/ReFraX32/ReFraX32.svg?style=for-the-badge&amp;label=Profile+Views&amp;extraCount=0&amp;color=7aa2f7&amp;labelColor=1a1b26" alt="Views" />
   <a href="https://github.com/ReFraX32?tab=followers">
     <img src="https://img.shields.io/github/followers/ReFraX32?label=Followers&amp;style=for-the-badge&amp;color=bb9af7&amp;logo=github&amp;logoColor=white" alt="Followers" />
   </a>
@@ -28,7 +28,6 @@
 <table>
   <tr>
     <td width="55%" valign="top">
-      <h4>⚡ Quick Snapshot</h4>
       <ul>
         <li>🔭 <b>Currently Building:</b> Scalable web architectures and full-stack cloud applications.</li>
         <li>🌱 <b>Leveling Up In:</b> Applied AI Engineering and distributed systems.</li>
